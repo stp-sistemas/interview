@@ -2,17 +2,17 @@
 Criar um componente "like button" using React 16. O componente deve ser usar export default.
 
 ## Requisitos:
-1. O "like button" deve:
+### 1. O "like button" deve:
 - Ter um conteúdo seguindo o seguinte formato: "Like | 100", onde 100 é número o total de "like".
 - Ter uma classe chamada "like-button".
 - O número de "likes" deve estar contido em um `<span>` com uma classe chamada "likes-counter".
 - O número inicial de "likes" deve ser igual a 100.
 
-2. Podemos adicionar um "like" clicando no "like button":
+### 2. Podemos adicionar um "like" clicando no "like button":
 - O número de "likes" deve incrementar em 1 o valor total de "likes".
 - A classe "liked" deve ser adicionada ao "like-button" (Pode ser usada a biblioteca classnames).
 
-3. Podemos desfazer o "like" clicando novamente no "like button":
+### 3. Podemos desfazer o "like" clicando novamente no "like button":
 - O contador deve decrementar em 1 o valor total de "likes".
 - A classe "liked" deve ser removida do "like button".
 
