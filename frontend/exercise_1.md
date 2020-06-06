@@ -24,4 +24,4 @@ Criar um componente "like button" using React 16. O componente deve ser usar exp
 - Design e estilo do componente não vai afetar o score. Se preocupe APENAS com os requisitos.
 - A aba "Browser" do codesandbox irá mostrará o resultado do seu código e você poderá usar para propósitos de teste.
 
-![Like button example](./exercise_1.webm)
+![Like button example](./exercise_1.gif)
