@@ -21,7 +21,7 @@ Criar um componente "like button" using React 16. O componente deve ser usar exp
 - Use o arquivo `LikeButton.jsx` para implementar o "like button" e adicione o componente no `index.js`.
 - Apenas dois _imports_ no arquivo `LikeButton.jsx` são permitidos: React (v16.13.1) e classnames (v2.2.6). 
 - Use a animação abaixo como referência para a sua solução.
-- Design e estilo do componente não vai afetar o score. Se preocupe APENAS com os requisitos.
-- A aba "Browser" do codesandbox irá mostrará o resultado do seu código e você poderá usar para propósitos de teste.
+- Design e estilo do componente não vai afetar sua avaliação na entrevista. Se preocupe APENAS com os requisitos.
+- A aba "Browser" do _codesandbox_ irá mostrará o resultado do seu código e você poderá usar para propósitos de teste.
 
 ![Like button example](./exercise_1.gif)
