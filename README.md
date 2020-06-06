@@ -6,7 +6,12 @@ Lembrando que o processo de entrevista está documentado no Confluence
 
 *TODO: Adicionar link do Confluence*  
 
-##Questões:
+## Questões:
 - [Desenvolvedor Frontend](frontend/README.md)
 - [Desenvolvedor Backend](backend/README.md)
+
+## Exercícios
+**Desenvolvedor Frontend:**
+- [React - Like button](frontend/exercise_1.md)
+
 
