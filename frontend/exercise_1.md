@@ -5,14 +5,14 @@ Criar um componente **\<LikeButton/\>** usando o React 16. O componente deve ser
 * O **\<LikeButton/\>** deve:
   * Ter um conteúdo seguindo o seguinte formato: "Like | 100", onde 100 é número o total de _likes_.
   * Ter uma classe chamada `like-button`.
-  * O número de "likes" deve estar contido em um `<span>` com uma classe chamada `likes-counter`.
-  * O número inicial de "likes" deve ser igual a 100.
+  * O número de _likes_ deve estar contido em um `<span>` com uma classe chamada `likes-counter`.
+  * O número inicial de _likes_ deve ser igual a 100.
 
-* Devemos "dar um like" clicando no **\<LikeButton/\>**:
-  * O número de `likes` deve incrementar em 1 o valor total de _likes_.
+* Devemos "dar um _like_" clicando no **\<LikeButton/\>**:
+  * O número de _likes_ deve incrementar em 1 o valor total de _likes_.
   * A classe `liked` deve ser adicionada ao **\<LikeButton/\>** (A biblioteca _classnames_ pode ser usada para facilitar a implementação).
 
-* Podemos desfazer o "like" clicando novamente no **\<LikeButton/\>**:
+* Podemos desfazer o _like_ clicando novamente no **\<LikeButton/\>**:
   * O contador deve decrementar em 1 o valor total de _likes_.
   * A classe `liked` deve ser removida do **\<LikeButton/\>**.
 
