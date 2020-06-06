@@ -8,12 +8,12 @@ Criar um componente "like button" using React 16. O componente deve ser usar exp
 - O número de "likes" deve estar contido em um `<span>` com uma classe chamada "likes-counter".
 - O número inicial de "likes" deve ser igual a 100.
 
-2. Users can add a like. By clicking the button:
-- O número de "likes" deve incrementar em 1 no valor total de "likes"
+2. Podemos adicionar um "like" clicando no "like button":
+- O número de "likes" deve incrementar em 1 o valor total de "likes".
 - A classe "liked" deve ser adicionada ao "like-button" (Pode ser usada a biblioteca classnames).
 
-3. Users can undo their like by clicking again on the button:
-- O contador deve decrementar em 1 do valor total de "likes"
+3. Podemos desfazer o "like" clicando novamente no "like button":
+- O contador deve decrementar em 1 o valor total de "likes".
 - A classe "liked" deve ser removida do "like button".
 
 ## Observações:
